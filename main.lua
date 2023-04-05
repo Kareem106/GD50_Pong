@@ -1,5 +1,5 @@
 function love.load()
-    love.window.setTitle("first love game")
+    love.window.setTitle("Pong game")
 end
 function love.draw()
     love.graphics.printf(
