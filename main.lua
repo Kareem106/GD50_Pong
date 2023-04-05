@@ -3,7 +3,7 @@ function love.load()
 end
 function love.draw()
     love.graphics.printf(
-        "my first game",
+        "Pong game",
         0,
         love.graphics.getHeight()/2,
         love.graphics.getWidth(),
